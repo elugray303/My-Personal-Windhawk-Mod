@@ -1,0 +1,17 @@
+{
+  "backgroundStyle": "acrylicBlur",
+  "color.red": 57,
+  "color.green": 58,
+  "color.blue": 68,
+  "color.accentColor": 0,
+  "color.transparency": 1,
+  "onlyWhenMaximized": 1,
+  "excludedPrograms[0]": "",
+  "styleForDarkMode.use": 0,
+  "styleForDarkMode.backgroundStyle": "blur",
+  "styleForDarkMode.color.red": 255,
+  "styleForDarkMode.color.green": 127,
+  "styleForDarkMode.color.blue": 39,
+  "styleForDarkMode.color.accentColor": 0,
+  "styleForDarkMode.color.transparency": 128
+}
